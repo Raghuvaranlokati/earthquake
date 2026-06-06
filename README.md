@@ -59,10 +59,6 @@ You don't need to manually download the dataset! The notebook handles everything
    ```
 3. **Run All Cells:** Sit back as the notebook downloads the data, trains the `HistGradientBoostingClassifier`, evaluates the F1 score, and generates the final `submission.csv`.
 
-## 👤 Author
-- **Raghuvaran Lokati**
-- **DrivenData Profile:** [raghuvaran_lokati](https://www.drivendata.org/users/raghuvaran_lokati/)
-
 ## 🔍 Tags & SEO Keywords
 `Nepal Earthquake Dataset`, `DrivenData Richter's Predictor`, `Modeling Earthquake Damage`, `DrivenData Competition Solution`, `Machine Learning`, `Data Science`, `HistGradientBoostingClassifier`, `Micro-averaged F1 Score`, `Building Damage Prediction`, `Scikit-Learn`, `Python`
 
